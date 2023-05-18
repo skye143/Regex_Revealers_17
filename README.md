@@ -20,8 +20,11 @@
 * [Feedback and Questions](Feedback-and-Questions)
 
 
+
 # [Description Intoduction](#table-of-contents)
 Welcome to the tutorial on regular expressions! In this tutorial, we will explore the intricacies of a specific regular expression and understand its search pattern. Regular expressions (regex) are powerful tools used to match and manipulate text based on specific patterns. By learning how to effectively use regex, you will gain a valuable skill for web development and beyond.
+
+Check out my video explaining: https://drive.google.com/file/d/1WuQLHwyklGVIEjiRQUhCSrGNu-wHqTNq/view
 
 ## [Summary](#table-of-contents)
 The regex we will be exploring in this tutorial is /^\d{2}-\d{2}-\d{4}$/. This regex pattern matches a date format in the format "dd-mm-yyyy," where "dd" represents the day, "mm" represents the month, and "yyyy" represents the year. Throughout this tutorial, we will break down the various components of this regex and explain their significance.
@@ -72,3 +75,4 @@ To contact me please utilize the provided links below:
 [LinkedIn](https://www.linkedin.com/in/skye-h-988a7a221)
 
 [Email](mailto:skyeheredia@gmail.com)
+
