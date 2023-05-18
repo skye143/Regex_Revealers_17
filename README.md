@@ -1,6 +1,6 @@
 # Regex_Revealers_17
 
-`Demystifying Regular Expressions - A Comprehensive Tutorial, Computer Science for JavaScript Challenge: Regex Tutorial`
+## `Demystifying Regular Expressions - A Comprehensive Tutorial, Computer Science for JavaScript Challenge: Regex Tutorial`
 
 # Table of Contents:
 * [Description Intoduction](Description-Intoduction)
